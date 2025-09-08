@@ -3,7 +3,7 @@
 ## Description
 
 This project implements and compares **K-Nearest Neighbors (KNN)** and
-**Logistic Regression** models applied to different datasets.\
+**Logistic Regression** models applied to different datasets.
 The main goal is to explore the performance of both algorithms in
 classification tasks, using healthcare and engineering (O-Ring failures)
 datasets.
@@ -22,17 +22,17 @@ datasets.
 
 ## Requirements
 
-To run the notebook, you need: - Python 3.x\
-- Jupyter Notebook or Jupyter Lab\
-- Libraries:\
+To run the notebook, you need: - Python 3.x
+- Jupyter Notebook or Jupyter Lab
+- Libraries:
 ```bash   
 pip install pandas numpy matplotlib scikit-learn
 ```
 
 ## Execution
 
-1.  Clone or download this repository.\
-2.  Open the file `AssignmentKNN2_Logistic.ipynb` in Jupyter Notebook.\
+1.  Clone or download this repository.
+2.  Open the file `AssignmentKNN2_Logistic.ipynb` in Jupyter Notebook.
 3.  Run the cells in order to reproduce the analysis.
 
 ## Results Overview

@@ -25,7 +25,9 @@ datasets.
 To run the notebook, you need: - Python 3.x\
 - Jupyter Notebook or Jupyter Lab\
 - Libraries:\
-```bash   pip install pandas numpy matplotlib scikit-learn```
+```bash   
+pip install pandas numpy matplotlib scikit-learn
+```
 
 ## Execution
 
